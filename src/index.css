@@ -1,0 +1,23 @@
+@tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+    
+    @media (max-width: 767px) {
+      .grid {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    
+      .grid > * {
+        width: 100%;
+        max-width: 400px;
+      }
+    }
+    
+    @media (min-width: 768px) {
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      }
+    }

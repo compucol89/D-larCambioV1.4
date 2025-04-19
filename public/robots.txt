@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dolarcambio.com/sitemap.xml
+
+# Directorios y archivos a no indexar
+Disallow: /assets/
+Disallow: /sounds/
+Disallow: /*.js$
+Disallow: /*.css$

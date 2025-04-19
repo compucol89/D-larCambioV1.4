@@ -1,0 +1,23 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" fill="#B22234"/>
+  <rect width="640" height="37" y="77" fill="#FFF"/>
+  <rect width="640" height="37" y="153" fill="#FFF"/>
+  <rect width="640" height="37" y="230" fill="#FFF"/>
+  <rect width="640" height="37" y="307" fill="#FFF"/>
+  <rect width="640" height="37" y="383" fill="#FFF"/>
+  <rect width="256" height="280" fill="#3C3B6E"/>
+  <path d="M40,40 L55,70 L70,40 L45,60 L65,60 Z" fill="#FFF"/>
+  <path d="M100,40 L115,70 L130,40 L105,60 L125,60 Z" fill="#FFF"/>
+  <path d="M160,40 L175,70 L190,40 L165,60 L185,60 Z" fill="#FFF"/>
+  <path d="M220,40 L235,70 L250,40 L225,60 L245,60 Z" fill="#FFF"/>
+  <path d="M70,100 L85,130 L100,100 L75,120 L95,120 Z" fill="#FFF"/>
+  <path d="M130,100 L145,130 L160,100 L135,120 L155,120 Z" fill="#FFF"/>
+  <path d="M190,100 L205,130 L220,100 L195,120 L215,120 Z" fill="#FFF"/>
+  <path d="M40,160 L55,190 L70,160 L45,180 L65,180 Z" fill="#FFF"/>
+  <path d="M100,160 L115,190 L130,160 L105,180 L125,180 Z" fill="#FFF"/>
+  <path d="M160,160 L175,190 L190,160 L165,180 L185,180 Z" fill="#FFF"/>
+  <path d="M220,160 L235,190 L250,160 L225,180 L245,180 Z" fill="#FFF"/>
+  <path d="M70,220 L85,250 L100,220 L75,240 L95,240 Z" fill="#FFF"/>
+  <path d="M130,220 L145,250 L160,220 L135,240 L155,240 Z" fill="#FFF"/>
+  <path d="M190,220 L205,250 L220,220 L195,240 L215,240 Z" fill="#FFF"/>
+</svg>
